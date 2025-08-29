@@ -1,0 +1,11 @@
+button {
+    width: 270pt;
+    height: 30px;
+    font-weight: bold;
+    background-color: yellow;
+    border-style: solid;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-width: 1px;
+    border-radius: 5px;
+    margin-top: -20px;
+}
